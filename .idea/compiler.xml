@@ -22,7 +22,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="query-builder" target="1.5" />
+      <module name="query-builder" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
