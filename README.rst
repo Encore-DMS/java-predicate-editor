@@ -10,7 +10,7 @@ that are needed.
 
 To install the ApprovalTests.jar as the necessary Maven repository artifact::
 
-	$ mvn install:install-file -DgroupId=net.sourceforge -DartifactId=approvaltests -Dversion=0.12 -Dpackaging=jar -Dfile=lib/ApprovalTests.jar
+	$ mvn install:install-file -DgroupId=net.sourceforge -DartifactId=approvaltests -Dversion=0.13 -Dpackaging=jar -Dfile=lib/ApprovalTests.jar
 
 
 Build/test/run
