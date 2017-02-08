@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-predicate-editor.iml" filepath="$PROJECT_DIR$/Java-predicate-editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/query-builder.iml" filepath="$PROJECT_DIR$/query-builder.iml" />
     </modules>
   </component>
